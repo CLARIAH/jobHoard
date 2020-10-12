@@ -23,4 +23,4 @@ As the light weight format, but also containg:
 - the occupation's standard classification equivalent, such as HISCO or ISCO;
 - peristent identifier directing to the project's url.
 
-For any questions, please create an [issue](https://github.com/CLARIAH/jobHoard/issues).
+For any questions, please create an [issue](https://github.com/CLARIAH/jobHoard/issues/new).
