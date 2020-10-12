@@ -1,2 +1,3 @@
-# wp4-jobHoard
-jobHoard: you're treasure hoard for coding occupations and their characteristics
+# jobHoard: an occupational 'gazetteer'
+
+Many research projects in the humanities and social sciences uncover mentions of occupations from sources such as archived documents and surveys. In spirit of the [World Historical Gazetteer](http://whgazetteer.org), the worlds largest time aware gazetteer, jobHoard aims to be a finding place for those mentions as well as the projects that uncovered them. Moreover, because various projects also take effort to standardize the occupational strings and code them into international classifications, such as HISCO, OCC1950, and ISCO, and provide them with rankings such as ISEI, HISCAM, SIOPS, SOCPO, EGP, HISCLASS. 
